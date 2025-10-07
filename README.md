@@ -19,4 +19,47 @@ Hey there! I am Iftex or Iftekhar whatever you call me, an innovative and passio
 
 I was mainly focused with the front-end technologies and web developing but along the way started more things such as working with artificial intelligence, back-end projects on different languages, also have experienced versatile skills in different platfroms like Git, Github, Gitlab etc. I started my developer journey from a very young age and have gained little to larger experiences since then. I always wanted myself to take in challenges to step into bigger oppurtunities. 
 
+Truly speaking, I am not someone so much professioanl or skilled, I learned along the way myself and still learning and improving day by day. Constantly exploring new technologies and improving my skills, aiming to build impactful projects and contribute to the developer community. I am always delighted to share thoughts or ideas and feedback from you. This is just the beginning of my journey, and I am excited to keep learning, building, and sharing along the way. Thanks for stopping by, and feel free to connect or share your thoughts!"
+
+
+## 🛠️ Versatile Skills
+<div align="center">
+
+### Front-End & Back-End Technologies
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+<div align="center">
+
+### Development Platforms
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+</div>
+
+<div align="center">
+
+### Graphics Designing & Video Editing
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Express](https://img.shields.io/badge/Adobe_Express-FF0000?style=for-the-badge&logo=adobe-express&logoColor=white)
+![Filmora](https://img.shields.io/badge/Filmora-00BFFF?style=for-the-badge&logo=filmora&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+
+</div>
+
+
+
 
