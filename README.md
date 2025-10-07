@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Assets/iftex-3d.png" width="170" alt="Logo" />
+  <img src="assets/iftex-3d.png" width="170" alt="Logo" />
   <h1>Hi, I am Iftex </h1>
   <p><b>Web Developer | Graphics Designer | Tech Enthusiast</b></p>
 </div>
