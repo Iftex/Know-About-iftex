@@ -71,8 +71,8 @@ Truly speaking, I am not someone so much professioanl or skilled, I learned alon
 <div align="center">
 
 ![Iftex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iftex&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iftex&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iftex&theme=radical)
 ![Iftex's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Iftex&theme=react-dark)
 
 </div>
+
