@@ -72,9 +72,9 @@ Truly speaking, I am not someone so much professioanl or skilled, I learned alon
 <a href="https://marguax.netlify.app/">2. Project Marguax</a> – Project Marguax is a powerful chatbot currently under development, with the goal of evolving into a fully functional AI system. This project is a collaborative effort carried out by our dedicated team, not just myself, including special members contributing their expertise. The link provided directs you to a sample design of the user interface or a preliminary version of the website for Marguax. The full project is still being built, and the official release date has not been set.
 
 <div align="center">
-  <img src="assets/displays/marguax-display-1" alt="pro1" width="30%">
-  <img src="assets/displays/marguax-display-2" alt="pro1" width="30%">
   <img src="assets/displays/marguax-display-3" alt="pro1" width="30%">
+  <img src="assets/displays/marguax-display-1" alt="pro1" width="30%">
+  <img src="assets/displays/marguax-display-4" alt="pro1" width="30%">
 </div>
 
 ## 📊 GitHub Stats & Activity
