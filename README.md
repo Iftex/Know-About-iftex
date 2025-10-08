@@ -19,7 +19,7 @@ Hey there! I am Iftex or Iftekhar whatever you call me, an innovative and passio
 
 I was mainly focused with the front-end technologies and web developing but along the way started more things such as working with artificial intelligence, back-end projects on different languages, also have experienced versatile skills in different platfroms like Git, Github, Gitlab etc. I started my developer journey from a very young age and have gained little to larger experiences since then. I always wanted myself to take in challenges to step into bigger oppurtunities. 
 
-Truly speaking, I am not someone so much professioanl or skilled, I learned along the way myself and still learning and improving day by day. Constantly exploring new technologies and improving my skills, aiming to build impactful projects and contribute to the developer community. I am always delighted to share thoughts or ideas and feedback from you. This is just the beginning of my journey, and I am excited to keep learning, building, and sharing along the way. Thanks for stopping by, and feel free to connect or share your thoughts!"
+Truly speaking, I am not someone so much professioanl or skilled, I learned along the way myself and still learning and improving day by day. Constantly exploring new technologies and improving my skills, aiming to build impactful projects and contribute to the developer community. I am always delighted to share thoughts or ideas and feedback from you. This is just the beginning of my journey, and I am excited to keep learning, building, and sharing along the way. Thanks for stopping by, and feel free to connect or share your thoughts!
 
 
 ## 🛠️ Versatile Skills
