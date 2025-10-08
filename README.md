@@ -65,3 +65,14 @@ Truly speaking, I am not someone so much professioanl or skilled, I learned alon
 
 <a href="https://marguax.netlify.app/">2. Project Marguax</a> – Project Marguax is a powerful chatbot currently under development, with the goal of evolving into a fully functional AI system. This project is a collaborative effort carried out by our dedicated team, not just myself, including special members contributing their expertise. The link provided directs you to a sample design of the user interface or a preliminary version of the website for Marguax. The full project is still being built, and the official release date has not been set.
 
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![Iftex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iftex&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iftex&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iftex&theme=radical)
+![Iftex's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Iftex&theme=react-dark)
+
+</div>
