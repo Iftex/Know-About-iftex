@@ -63,8 +63,19 @@ Truly speaking, I am not someone so much professioanl or skilled, I learned alon
 ## 🚀 Projects & Ongoing Work
 <a href="https://iftexworks.netlify.app/">1. iftexworks</a> – A personal protfolio or about-me website made by myself using simple Html5, Css3, Javascript and different sources for some scripts, icons library, images and styles. The site showcases some of my works in web development and other essential things to serve as a digital portal to the visitors. <br>
 
+<div align="center">
+  <img src="assets/displays/iftexworks-display-1" alt="pro1" width="30%">
+  <img src="assets/displays/iftexworks-display-2" alt="pro1" width="30%">
+  <img src="assets/displays/iftexworks-display-3" alt="pro1" width="30%">
+</div>
+
 <a href="https://marguax.netlify.app/">2. Project Marguax</a> – Project Marguax is a powerful chatbot currently under development, with the goal of evolving into a fully functional AI system. This project is a collaborative effort carried out by our dedicated team, not just myself, including special members contributing their expertise. The link provided directs you to a sample design of the user interface or a preliminary version of the website for Marguax. The full project is still being built, and the official release date has not been set.
 
+<div align="center">
+  <img src="assets/displays/marguax-display-1" alt="pro1" width="30%">
+  <img src="assets/displays/marguax-display-2" alt="pro1" width="30%">
+  <img src="assets/displays/marguax-display-3" alt="pro1" width="30%">
+</div>
 
 ## 📊 GitHub Stats & Activity
 
