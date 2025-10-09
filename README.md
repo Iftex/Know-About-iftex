@@ -74,7 +74,7 @@ A personal protfolio or about-me website made by myself using simple Html5, Css3
   <img src="assets/displays/iftexworks-display-3" alt="pro1" width="30%">
 </div>
 
-<h3>Project Marguax</h3>
+<h3>2. Project Marguax</h3>
 Project Marguax is a powerful chatbot currently under development, with the goal of evolving into a fully functional AI system. This project is a collaborative effort carried out by our dedicated team, not just myself, including special members contributing their expertise. <b> Mainly the developer, creator, founder and the owner of the project marguax is <a href="https://github.com/Shahbaj101">141serval(Shahbaj101).</a> The website was designed and made functional by <a href="https://github.com/Nasif215">Darkboy(Nasif215).</a> I am working as an collaborator and developing with other members to build it in a better way.</b> The link provided directs you to a sample design of the user interface or a preliminary version of the website for Marguax. The full project is still being built, and the official release date has not been set. <a href="https://marguax.netlify.app/"><b>Visit now</b></a>
 
 <div align="center">
