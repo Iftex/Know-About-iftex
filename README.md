@@ -14,7 +14,7 @@
 
 </div>
 
-## 🧭 About Me 
+## 🧭 About Me  
 Hey there! I am Iftex or Iftekhar whatever you call me, an innovative and passionate developer working on both front-end and back-end technologies. Welcome to my profile — this is where you can know a bit about my journey, skills, current projects, work interests, worksapces, changelog of projects, new releases and other relevant things. I’m passionate about creating useful and visually appealing digital things those are not only highly functional but also user friendly. 
 
 I was mainly focused with the front-end technologies and web developing but along the way started more things such as working with artificial intelligence, back-end projects on different languages, also have experienced versatile skills in different platfroms like Git, Github, Gitlab etc. I started my developer journey from a very young age and have gained little to larger experiences since then. I always wanted myself to take in challenges to step into bigger oppurtunities. 
